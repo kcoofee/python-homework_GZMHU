@@ -1,2 +1,4 @@
 # python-homework_GZMHU
-GZMHU shelter plan
+#去你大爷的应试教育
+
+##part of GZMHU shelter plan
